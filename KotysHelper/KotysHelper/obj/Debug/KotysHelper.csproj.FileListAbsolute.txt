@@ -1,0 +1,9 @@
+D:\Gabi\projects\KotysHelper\KotysHelper\bin\Debug\KotysHelper.exe.config
+D:\Gabi\projects\KotysHelper\KotysHelper\bin\Debug\KotysHelper.exe
+D:\Gabi\projects\KotysHelper\KotysHelper\bin\Debug\KotysHelper.pdb
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.csprojResolveAssemblyReference.cache
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.Form1.resources
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.Properties.Resources.resources
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.csproj.GenerateResource.Cache
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.exe
+D:\Gabi\projects\KotysHelper\KotysHelper\obj\Debug\KotysHelper.pdb
